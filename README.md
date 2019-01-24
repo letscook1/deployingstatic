@@ -1,0 +1,2 @@
+# deployingstatic
+in class activity
